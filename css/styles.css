@@ -1,8 +1,29 @@
 h1, h2, h3 {
-    color: purple;
+    color: rgb(138, 78, 138);
 }
 
 p {
     font-size: 16px;
     line-height: 1.5;
+}
+
+head, footer {
+    border-style: solid;
+    border-color:yellow;
+}
+
+nav{
+    border-style: solid;
+    border-color: yellow;
+
+}
+
+main {
+    border-style: solid;
+    border-color: black;
+}
+
+section {
+    border-style: solid;
+    border-color: green;
 }
